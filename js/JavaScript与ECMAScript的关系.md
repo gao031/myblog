@@ -1,0 +1,12 @@
+# JavaScript与ECMAScript的关系
+
+1996年8月，微软模仿JavaScript开发了一种相近的语言，取名为JScript
+Netscape公司面临丧失浏览器脚本语言的主导权的局面。
+1996年11月，Netscape公司决定将JavaScript提交给国际标准化组织ECMA（European Computer Manufacturers Association），希望JavaScript能够成为国际标准，以此抵抗微软。
+1997年7月，ECMA组织发布262号标准文件（ECMA-262）的第一版，规定了浏览器脚本语言的标准，并将这种语言称为ECMAScript。
+
+# JavaScript与Java的关系
+JavaScript和Java是两种不一样的语言，但是它们之间存在联系。
+JavaScript的基本语法和对象体系，是模仿Java而设计的。但是，JavaScript没有采用Java的静态类型。
+它与Java语法最大的两点区别。JavaScript语法要比Java自由得多。
+JavaScript的原始设计目标是一种小型的、简单的动态语言，与Java有足够的相似性，使得使用者可以快速上手。
